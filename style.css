@@ -78,6 +78,68 @@ img {
     text-align: center;
     color: #BDBDBD;
 }
+@media only screen and (max-width:1200px) {
+    #header{
+        position: absolute;
+        left: 77px;
+        top: 40px;
+        font-size: 24px;
+        line-height: 25px;
+        letter-spacing: -0.08em;
+        text-transform: uppercase;
+    }
+    img {
+        position: absolute;
+        left: 5.35%;
+        right: 57.21%;
+        top: 24.54%;
+        bottom: 34.03%;
+        width: 539.22px;
+        height: 447.43;
+    }
+    #have {
+        position: absolute;
+        width: 586px;
+        height: 190px;
+        left: 635px;
+        top: 150px;
+        font-size: 64px;
+        line-height: 95px;
+        letter-spacing: -0.035em;
+    }
+    #disc {
+        position: absolute;
+        width: 381px;
+        height: 108px;
+        left: 636px;
+        top: 370px;
+        font-size: 24px;
+        line-height: 36px;
+        letter-spacing: -0.035em;
+    }
+    #rectangle {
+        position: absolute;
+        color: white;
+        width: 216px;
+        height: 68px;
+        left: 640px;
+        top: 540px;
+        cursor: pointer;
+    }
+    
+    #footer {
+        position: absolute;
+        width: 287px;
+        height: 17px;
+        left: 677px;
+        top: 700px;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 17px;
+        text-align: center;
+    }
+    
+}
 @media only screen and (max-width: 992px){
     #header{
         position: absolute;

@@ -90,7 +90,7 @@ img {
     }
     img {
         position: absolute;
-        left: 5.35%;
+        left: 4.35%;
         right: 57.21%;
         top: 24.54%;
         bottom: 34.03%;
@@ -101,7 +101,7 @@ img {
         position: absolute;
         width: 586px;
         height: 190px;
-        left: 635px;
+        left: 535px;
         top: 150px;
         font-size: 64px;
         line-height: 95px;
@@ -111,7 +111,7 @@ img {
         position: absolute;
         width: 381px;
         height: 108px;
-        left: 636px;
+        left: 536px;
         top: 370px;
         font-size: 24px;
         line-height: 36px;
@@ -122,7 +122,7 @@ img {
         color: white;
         width: 216px;
         height: 68px;
-        left: 640px;
+        left: 540px;
         top: 540px;
         cursor: pointer;
     }
